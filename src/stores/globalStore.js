@@ -1,3 +1,5 @@
+import userStore from "./userStore";
+
 export default {
-  user: []
+  user: userStore,
 };
